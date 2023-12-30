@@ -5,11 +5,6 @@
 📦 Always up for building innovative and user-friendly mobile experiences.
 🔧 Focused on clean code, great UI/UX, and staying up-to-date with the latest Android trends.
 
-💻 Front-End Web Wizard:
-✨ Proficient in HTML, CSS, and JavaScript - crafting interactive web experiences.
-🎨 A keen eye for design, ensuring pixel-perfect layouts and responsive web designs.
-🛠️ Constantly exploring new libraries and frameworks to enhance my web development toolkit.
-
 📚 Student of Tech:
 🎓 Currently pursuing Informatics Degeree in Institut Teknologi Sepuluh Nopember.
 📖 Passionate about learning and staying curious in the ever-evolving tech world.
