@@ -1,9 +1,9 @@
 👋 Hello World! I'm Yanuar Eka Pramudya, a passionate student exploring the realms of Android app development and front-end web design.
 
-📱 Android App Dev Enthusiast:
-🚀 Currently honing my skills in Android app development using Dart/Kotlin.
+📱 Mobile App Dev Enthusiast:
+🚀 Currently honing my skills in Mobile app development using Flutter.
 📦 Always up for building innovative and user-friendly mobile experiences.
-🔧 Focused on clean code, great UI/UX, and staying up-to-date with the latest Android trends.
+🔧 Focused on clean code, great UI/UX, and staying up-to-date with the latest Mobile trends.
 
 📚 Student of Tech:
 🎓 Currently pursuing Informatics Degeree in Institut Teknologi Sepuluh Nopember.
